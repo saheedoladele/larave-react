@@ -1,0 +1,9 @@
+body{
+    background: grey;
+    
+}
+.jumbotron1{
+    height:300px !important;
+    padding-top: 80px !important;
+    border-radius:0px;
+}
